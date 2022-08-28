@@ -11,17 +11,12 @@ This project scrape data from various websites to create a new webpage that high
 
   * Software:
   
-      *Python
-      
-      *Jupyter Notebook
-      
-      *Pandas, BeautifulSoup, Splinter, ChromeDriverManager, Flask, PyMongo
-      
-      *MongoDB
-      
-      **HTML5
-      
-      ** Bootstrap 3
+      Python
+      Jupyter Notebook
+      Pandas, BeautifulSoup, Splinter, ChromeDriverManager, Flask, PyMongo
+      MongoDB
+      HTML5      
+      Bootstrap 3
       
       
       
