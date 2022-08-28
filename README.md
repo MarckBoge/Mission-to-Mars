@@ -9,7 +9,7 @@ This project scrape data from various websites to create a new webpage that high
 ## Resources
 
 
-  * Software:
+ ### Software:
   
       Python
       
